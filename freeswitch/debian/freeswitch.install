@@ -98,4 +98,6 @@ etc/freeswitch/_example/ivr_menus/demo_ivr.xml
 var/log/freeswitch
 var/log/freeswitch/xml_cdr
 var/lib/freeswitch/db
+var/lib/freeswitch/recs
+var/lib/freeswitch/vm
 var/run/freeswitch
