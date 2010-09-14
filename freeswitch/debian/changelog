@@ -1,3 +1,21 @@
+freeswitch (1.0.6-201009132047) lucid; urgency=low
+
+  * auto inc
+
+ -- root <root@root>  Mon, 13 Sep 2010 20:47:24 +0400
+
+freeswitch (1.0.6-201009131938) lucid; urgency=low
+
+  * auto inc
+
+ -- root <root@root>  Mon, 13 Sep 2010 19:38:36 +0400
+
+freeswitch (1.0.6-201009041456) lucid; urgency=low
+
+  * auto inc
+
+ -- root <root@root>  Sat, 04 Sep 2010 14:56:20 +0400
+
 freeswitch (1.0.6-201008210305) lucid; urgency=low
 
   * auto inc

@@ -8,7 +8,6 @@
 /etc/freeswitch/_example/dialplan/features.xml
 /etc/freeswitch/_example/dialplan/default/00_pizza_demo.xml
 /etc/freeswitch/_example/dialplan/default/01_example.com.xml
-/etc/freeswitch/_example/dialplan/default/99999_enum.xml
 /etc/freeswitch/_example/dialplan/public/00_inbound_did.xml
 /etc/freeswitch/_example/sip_profiles/external.xml
 /etc/freeswitch/_example/sip_profiles/internal/example.xml
